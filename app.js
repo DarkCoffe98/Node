@@ -1,5 +1,6 @@
 require('dotenv').config();
 
+const port = 3000;
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
