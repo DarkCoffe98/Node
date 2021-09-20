@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\config",
-    "\\routes",
-    "\\util"
+    ""
   ],
-  "SelectedNode": "\\util\\labelCreate.js",
+  "SelectedNode": "\\app.js",
   "PreviewInSolutionExplorer": false
 }
