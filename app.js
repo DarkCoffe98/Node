@@ -12,7 +12,6 @@ const shopRouter = require('./routes/shop');
 const authRouter = require('./routes/auth');
 const flash = require('connect-flash');
 const app = express();
-const PORT = process.env.PORT || 3000
 const MongoDBStore = require('connect-mongodb-session')(session);
 const Cart = require('./models/cart');
 const Product = require('./models/product');
